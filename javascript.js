@@ -116,7 +116,7 @@ standard_input.on('data', function (data) {
     player = 0
   }
 
-
+ff
 }
 console.log(board[0], board[1], board[2])
 console.log(board[3], board[4], board[5])
